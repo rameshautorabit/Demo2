@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
-        <members>AccountCreation100</members>
-        <members>AccountCreation101</members>
-        <members>AccountCreation102</members>
-        <members>AccountCreation1222</members>
+        <members>CreatingAccount11</members>
+        <members>CreatingAccount25</members>
         <name>ApexClass</name>
     </types>
     <version>35.0</version>
