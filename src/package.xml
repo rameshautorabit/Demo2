@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
-        <members>AccountCreation101</members>
-        <members>Testams1</members>
-        <members>Testams2</members>
+        <members>AccountCreation100</members>
         <members>Testams3</members>
         <name>ApexClass</name>
     </types>
