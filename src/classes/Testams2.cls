@@ -2,8 +2,8 @@ public Class Testams2
 {
 public Account createAccount(String name)  
 {
-Account acc3= new Account();
-acc3.Name = name;
-return acc3;
+Account acc4= new Account();
+acc4.Name = name;
+return acc4;
 }
 }
