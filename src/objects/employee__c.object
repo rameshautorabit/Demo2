@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
     <fields>
-        <fullName>sub1rams__c</fullName>
-        <description>test1</description>
-        <externalId>true</externalId>
-        <label>sub1rams</label>
+        <fullName>Test2rams__c</fullName>
+        <description>Test2afterCommit</description>
+        <externalId>false</externalId>
+        <label>Test2rams</label>
+        <precision>7</precision>
+        <required>false</required>
+        <scale>1</scale>
+        <trackFeedHistory>false</trackFeedHistory>
         <trackTrending>false</trackTrending>
-        <type>AutoNumber</type>
+        <type>Currency</type>
     </fields>
 </CustomObject>
