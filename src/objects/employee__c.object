@@ -12,4 +12,12 @@
         <trackTrending>false</trackTrending>
         <type>Currency</type>
     </fields>
+    <fields>
+        <fullName>sub1rams__c</fullName>
+        <description>test1 second time commit</description>
+        <externalId>true</externalId>
+        <label>sub1rams</label>
+        <trackTrending>false</trackTrending>
+        <type>AutoNumber</type>
+    </fields>
 </CustomObject>
