@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
-        <members>AccountCreation100</members>
-        <members>AccountCreation101</members>
-        <name>ApexClass</name>
+        <members>employee__c.Test2rams__c</members>
+        <members>employee__c.sub1rams__c</members>
+        <name>CustomField</name>
     </types>
     <version>35.0</version>
 </Package>
